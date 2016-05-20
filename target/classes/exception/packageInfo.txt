@@ -1,0 +1,5 @@
+主要写JAVA异常的处理；
+	1、throw new RuntimeException(e)是否能正确的将e传递到上层；
+	2、什么情况下，e.getMessage会报null;
+	3、e.getMessage()到底获取的是什么;
+	4、exception的各个方法;
